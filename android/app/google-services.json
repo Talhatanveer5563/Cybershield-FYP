@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "407833646649",
+    "project_id": "cybershield-d2749",
+    "storage_bucket": "cybershield-d2749.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:407833646649:android:74ef668797f8e638ab5fe8",
+        "android_client_info": {
+          "package_name": "com.example.cybershield"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkEIIPvjrq7O0MxEp_HTAoEhM21_JSA_Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
